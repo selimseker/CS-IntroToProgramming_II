@@ -1,4 +1,4 @@
-#BNF.dat file sample:
+#BNF.dat file sample:\n
 S->abaAC|Ca
 A->BaC|B|cC
 B->a|b|C|c
